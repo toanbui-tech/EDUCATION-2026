@@ -47,3 +47,16 @@ Vào thời điểm này, Machiavelli hai mươi mốt tuổi. Chúng ta biết 
 Với niềm xác tín mãnh liệt, Savonarola rao giảng các đức hạnh của nghèo khó, kêu gọi thiêu hủy bất kỳ cuốn sách hay tác phẩm nghệ thuật nào bị coi là ô uế, và tiên tri về tai họa giáng xuống những người Florence tội lỗi dưới hình thức một cuộc xâm lược từ bên ngoài. Năm 1494, lời tiên tri ấy đã trở thành sự thật.
 - page -line
 - 13-06
+
+**Bản dịch tiếng Việt:**
+
+Để có thể nắm bắt được phần nào sự nghiệp ngoại giao của Machiavelli và phạm vi tham chiếu mà ông sử dụng trong *Quân vương*, người ta cần có một hiểu biết nhất định về bức tranh địa chính trị phức tạp của nước Ý vào thế kỷ mười lăm và đầu thế kỷ mười sáu, cũng như về sự thay đổi sâu sắc đã diễn ra trong thập niên 1490—một thay đổi sẽ quyết định số phận của Ý trong suốt 350 năm tiếp theo.
+
+Trong phần lớn thế kỷ mười lăm, bán đảo Ý có năm thế lực chính: Vương quốc Naples, Lãnh địa Giáo hoàng, Florence, Venice và Milan. Trải dài từ phía nam Rome cho tới mũi cực nam của Calabria, Vương quốc Naples là lãnh thổ lớn nhất, vượt trội hẳn về quy mô. Nằm kẹt ở trung tâm, chỉ có lối ra biển mong manh, Florence là quốc gia nhỏ nhất và yếu nhất.
+
+Cả năm cường quốc này đều cạnh tranh quyết liệt để chiếm đoạt bất kỳ vùng đất nào có thể. Sau khi mất phần lớn đế chế hải ngoại vào tay người Thổ Nhĩ Kỳ, Venice khao khát mở rộng lãnh thổ vào đồng bằng miền bắc nước Ý (Ferrara, Verona, Brescia) và dọc theo bờ biển Adriatic (Forlì, Rimini). Nhận thức rõ quy mô và sức mạnh của nước Pháp vừa được thống nhất ở phía bắc, Milan hy vọng giành được lợi ích ở phía nam và phía tây (Genoa) như một đối trọng. Florence thì đơn giản là cố gắng mở rộng bằng bất kỳ cách nào thuận tiện. Trong thế kỷ trước đó, người Florence đã chiếm được Arezzo, Pisa và Cortona, đồng thời tiêu tốn năng lượng khổng lồ vào hàng loạt nỗ lực thất bại nhằm chinh phục Lucca.
+
+Mục tiêu của Rome, dưới bất kỳ vị giáo hoàng nào, luôn là mở rộng về phía bắc và phía đông vào Romagna và Emilia, với tham vọng thôn tính Perugia, Bologna, Rimini và Forlì—một dự án tất yếu sẽ đưa họ vào xung đột với cả Venice lẫn Florence. Ở cực nam, Naples được cai trị bởi một nhánh của nhà Aragon, nhưng ngai vàng lại bị tranh chấp bởi các vua Angevin của Pháp và hoàng gia Tây Ban Nha (cũng thuộc nhà Aragon), những người đã nắm quyền tại Sicily.
+
+Vì thế, cục diện vô cùng phức tạp. Xen kẽ giữa các quốc gia lớn là ít nhất hàng chục thực thể nhỏ hơn, có nơi không lớn hơn một thị trấn cùng những cánh đồng xung quanh, và tất cả đều thường xuyên đối mặt với nguy cơ bị xâm lược từ kẻ thù này hay kẻ thù khác. Tuy nhiên, dù tình hình hiếm khi đứng yên, cũng đúng là có rất ít thay đổi lớn. Ngay khi một thế lực giành được một thắng lợi quân sự đáng kể, các thế lực còn lại lập tức hình thành liên minh để ngăn chặn đà tiến của nó. Đặc biệt, Florence duy trì được nền độc lập phần lớn là nhờ thực tế rằng nếu Venice, Milan hoặc Rome tìm cách chiếm lấy thành phố này, thì hai thế lực còn lại sẽ ngay lập tức can thiệp để ngăn điều đó xảy ra. Nhờ vậy, trong hơn một trăm năm, một thế cân bằng quyền lực nhất định đã được duy trì. Tất cả đã chấm dứt với cuộc xâm lược của Pháp vào năm 1494.
+- 14 -E03
