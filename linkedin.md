@@ -44,3 +44,9 @@ Who invented patterns?
 Đó là một câu hỏi hay nhưng không chính xác lắm.
 
 Khi một giải pháp được lặp đi lặp lại trong nhiều dự án khác nhau, cuối cùng sẽ có người đặt tên cho nó và mô tả chi tiết giải pháp đó. Về cơ bản đó là cách một pattern được phát hiện.
+
+```
+Nếu tất cả những gì bạn có là một cái búa thì mọi thứ trông giống như một cái đinh.
+```
+
+Đây là vấn đề ám ảnh nhiều người mới làm quen với các pattern. Sau khi tìm hiểu về các pattern, họ cố gắng áp dụng chúng ở mọi nơi, ngay cả trong những tình huống mà mã đơn giản hơn sẽ hoạt động tốt.
