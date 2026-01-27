@@ -29,3 +29,12 @@ Anh em muốn leo cao, hãy nhớ mấy điều này:
 5. Đừng bao giờ là người thông minh nhất trong phòng họp. Hãy là người dẫn dắt cuộc trò chuyện một cách khéo léo.
 
 Nghe nó lươn lẹo nhỉ? Nhưng hệ thống nó vận hành như vậy. Tôi không tạo ra luật chơi, tôi chỉ học cách chơi thôi. Chào mừng đến với IT doanh nghiệp, nơi công nghệ chỉ là phần mở đầu.
+# Type 2
+Một số người hỏi nên chọn cuốn sách nào trong hai cuốn này. Đây là quan điểm của tôi:
+
+Tôi sẽ chọn “Clean Architecture”.
+“Clean Code” nói về các kỹ thuật và thực hành cụ thể mà bạn có thể học qua bài viết, tutorial, code review và quá trình thực hành. Đây là những kỹ năng quan trọng, nhưng bạn có thể tiếp cận chúng từ rất nhiều nguồn khác nhau.
+
+“Clean Architecture” thì hoàn toàn khác. Nó nói về một tư duy (mindset) mà thường chỉ có được qua kinh nghiệm: bạn xây dựng một dự án, rồi business yêu cầu thêm một tính năng mới, và bạn nhận ra kiến trúc của mình không sẵn sàng để mở rộng. Bạn cảm nhận rõ nỗi đau của những quyết định sai, phải refactor, rút kinh nghiệm, rồi làm dự án tiếp theo tốt hơn. Cứ lặp đi lặp lại như vậy.
+
+Cuốn sách này giúp bạn đi qua con đường đó nhanh hơn và có ý thức hơn. Nó hệ thống hóa những trải nghiệm mà nếu không có sách, bạn có thể phải mất nhiều năm thử–sai mới tích lũy được. Nó không thay thế cho việc thực hành, nhưng sẽ khiến quá trình học trở nên hiệu quả hơn rất nhiều.
