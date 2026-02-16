@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hành Trình 12 Tháng - Năm Ngọ 2026</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #0a0a0a;
+            color: #fff;
+            overflow-x: hidden;
+        }
+
+        .hero {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(180deg, #1a0000 0%, #0a0a0a 100%);
+            position: relative;
+            border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+        }
+
+        .hero-title {
+            font-size: clamp(3rem, 10vw, 8rem);
+            font-weight: 900;
+            letter-spacing: -0.03em;
+            margin-bottom: 1rem;
+            background: linear-gradient(90deg, #d4af37 0%, #f4e4c1 50%, #d4af37 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.2rem, 3vw, 2rem);
+            color: #d4af37;
+            font-weight: 300;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            margin-bottom: 3rem;
+        }
+
+        .hero-description {
+            font-size: clamp(1rem, 2vw, 1.3rem);
+            color: rgba(255, 255, 255, 0.7);
+            max-width: 800px;
+            text-align: center;
+            line-height: 1.8;
+            padding: 0 2rem;
+        }
+
+        .timeline-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 8rem 2rem;
+        }
+
+        .timeline-header {
+            text-align: center;
+            margin-bottom: 6rem;
+        }
+
+        .timeline-header h2 {
+            font-size: clamp(2rem, 5vw, 4rem);
+            font-weight: 800;
+            margin-bottom: 1rem;
+            letter-spacing: -0.02em;
+        }
+
+        .timeline-header p {
+            font-size: clamp(1rem, 2vw, 1.2rem);
+            color: rgba(255, 255, 255, 0.6);
+            font-weight: 300;
+        }
+
+        .months-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+
+        .month-card {
+            background: rgba(26, 26, 26, 0.6);
+            border: 1px solid rgba(212, 175, 55, 0.2);
+            padding: 2.5rem 2rem;
+            position: relative;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+        }
+
+        .month-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, #d4af37, transparent);
+            transform: scaleX(0);
+            transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .month-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .month-card:hover {
+            background: rgba(26, 26, 26, 0.9);
+            border-color: rgba(212, 175, 55, 0.5);
+            transform: translateY(-8px);
+        }
+
+        .month-number {
+            font-size: 4rem;
+            font-weight: 900;
+            color: rgba(212, 175, 55, 0.15);
+            line-height: 1;
+            margin-bottom: 1rem;
+            letter-spacing: -0.05em;
+        }
+
+        .month-name {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #d4af37;
+            margin-bottom: 1.5rem;
+            letter-spacing: 0.05em;
+        }
+
+        .month-focus {
+            font-size: 1.1rem;
+            color: rgba(255, 255, 255, 0.9);
+            margin-bottom: 1rem;
+            font-weight: 600;
+            line-height: 1.4;
+        }
+
+        .month-description {
+            font-size: 0.95rem;
+            color: rgba(255, 255, 255, 0.6);
+            line-height: 1.6;
+            font-weight: 300;
+        }
+
+        .quarter-section {
+            margin-bottom: 5rem;
+        }
+
+        .quarter-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #d4af37;
+            margin-bottom: 2rem;
+            padding-left: 1rem;
+            border-left: 4px solid #d4af37;
+            letter-spacing: 0.05em;
+        }
+
+        .footer-message {
+            text-align: center;
+            padding: 6rem 2rem;
+            background: linear-gradient(180deg, #0a0a0a 0%, #1a0000 100%);
+            border-top: 1px solid rgba(212, 175, 55, 0.3);
+        }
+
+        .footer-message h3 {
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .footer-message p {
+            font-size: clamp(1rem, 2vw, 1.3rem);
+            color: rgba(255, 255, 255, 0.7);
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.8;
+            font-weight: 300;
+        }
+
+        .accent-line {
+            width: 60px;
+            height: 4px;
+            background: #d4af37;
+            margin: 2rem auto;
+        }
+
+        @media (max-width: 768px) {
+            .months-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .hero {
+                height: auto;
+                padding: 4rem 0;
+            }
+        }
+
+        /* Subtle animations */
+        .month-card {
+            opacity: 0;
+            animation: fadeInUp 0.6s ease forwards;
+        }
+
+        .month-card:nth-child(1) { animation-delay: 0.1s; }
+        .month-card:nth-child(2) { animation-delay: 0.2s; }
+        .month-card:nth-child(3) { animation-delay: 0.3s; }
+        .month-card:nth-child(4) { animation-delay: 0.4s; }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Minimal particle effect */
+        .particle {
+            position: fixed;
+            width: 2px;
+            height: 2px;
+            background: #d4af37;
+            border-radius: 50%;
+            pointer-events: none;
+            opacity: 0.3;
+            animation: float 20s linear infinite;
+        }
+
+        @keyframes float {
+            0% {
+                transform: translateY(100vh) translateX(0);
+                opacity: 0;
+            }
+            10% {
+                opacity: 0.3;
+            }
+            90% {
+                opacity: 0.3;
+            }
+            100% {
+                transform: translateY(-100px) translateX(100px);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-subtitle">Năm Ngọ 2026</div>
+        <h1 class="hero-title">PHI THẬT NHANH<br>PHI THẬT XA</h1>
+        <div class="accent-line"></div>
+        <p class="hero-description">
+            Hành trình 12 tháng chinh phục đỉnh cao. Mỗi bước chân là một thành tựu, 
+            mỗi tháng là một cột mốc trên con đường phát triển sự nghiệp hoành tráng.
+        </p>
+    </section>
+
+    <!-- Timeline Content -->
+    <div class="timeline-container">
+        <div class="timeline-header">
+            <h2>Lộ Trình 12 Tháng</h2>
+            <p>Chiến lược phát triển từng giai đoạn trong năm Ngọ</p>
+        </div>
+
+        <!-- Q1: Tháng 1-3 -->
+        <div class="quarter-section">
+            <h3 class="quarter-title">QUÝ I — KHỞI ĐẦU MẠNH MẼ</h3>
+            <div class="months-grid">
+                <div class="month-card">
+                    <div class="month-number">01</div>
+                    <div class="month-name">THÁNG MỘT</div>
+                    <div class="month-focus">Lập Kế Hoạch Tổng Thể</div>
+                    <div class="month-description">
+                        Xác định mục tiêu rõ ràng cho cả năm. Vạch ra lộ trình chi tiết, 
+                        chuẩn bị nguồn lực và tinh thần sẵn sàng cho hành trình dài phía trước.
+                    </div>
+                </div>
+
+                <div class="month-card">
+                    <div class="month-number">02</div>
+                    <div class="month-name">THÁNG HAI</div>
+                    <div class="month-focus">Xây Dựng Nền Móng</div>
+                    <div class="month-description">
+                        Đầu tư vào học hỏi và phát triển kỹ năng. Tạo dựng mối quan hệ 
+                        quan trọng, thiết lập quy trình làm việc hiệu quả.
+                    </div>
+                </div>
+
+                <div class="month-card">
+                    <div class="month-number">03</div>
+                    <div class="month-name">THÁNG BA</div>
+                    <div class="month-focus">Tăng Tốc Đột Phá</div>
+                    <div class="month-description">
+                        Thực thi kế hoạch với quyết tâm cao. Tập trung vào các dự án 
+                        chiến lược, tạo động lực mạnh mẽ cho toàn bộ hành trình.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Q2: Tháng 4-6 -->
+        <div class="quarter-section">
+            <h3 class="quarter-title">QUÝ II — MỞ RỘNG VÀ PHÁT TRIỂN</h3>
+            <div class="months-grid">
+                <div class="month-card">
+                    <div class="month-number">04</div>
+                    <div class="month-name">THÁNG TƯ</div>
+                    <div class="month-focus">Mở Rộng Cơ Hội</div>
+                    <div class="month-description">
+                        Tìm kiếm và nắm bắt cơ hội mới. Khám phá thị trường, 
+                        mở rộng mạng lưới kết nối và quan hệ đối tác.
+                    </div>
+                </div>
+
+                <div class="month-card">
+                    <div class="month-number">05</div>
+                    <div class="month-name">THÁNG NĂM</div>
+                    <div class="month-focus">Củng Cố Vị Thế</div>
+                    <div class="month-description">
+                        Tối ưu hóa hiệu quả công việc. Phát triển và cải tiến 
+                        sản phẩm dịch vụ, nâng cao năng lực cạnh tranh.
+                    </div>
+                </div>
+
+                <div class="month-card">
+                    <div class="month-number">06</div>
+                    <div class="month-name">THÁNG SÁU</div>
+                    <div class="month-focus">Đánh Giá Giữa Kỳ</div>
+                    <div class="month-description">
+                        Rà soát tiến độ và điều chỉnh chiến lược. Tổng kết thành tựu 
+                        6 tháng đầu, lên kế hoạch cho nửa năm còn lại.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Q3: Tháng 7-9 -->
+        <div class="quarter-section">
+            <h3 class="quarter-title">QUÝ III — BỨT PHÁ MẠNH MẼ</h3>
+            <div class="months-grid">
+                <div class="month-card">
+                    <div class="month-number">07</div>
+                    <div class="month-name">THÁNG BẢY</div>
+                    <div class="month-focus">Tái Định Hướng</div>
+                    <div class="month-description">
+                        Điều chỉnh mục tiêu dựa trên kinh nghiệm thực tế. 
+                        Tập trung năng lượng vào những ưu tiên hàng đầu.
+                    </div>
+                </div>
+
+                <div class="month-card">
+                    <div class="month-number">08</div>
+                    <div class="month-name">THÁNG TÁM</div>
+                    <div class="month-focus">Đột Phá Lớn</div>
+                    <div class="month-description">
+                        Thực hiện các sáng kiến táo bạo. Dám nghĩ dám làm, 
+                        tạo ra những bước nhảy vọt trong sự nghiệp.
+                    </div>
+                </div>
+
+                <div class="month-card">
+                    <div class="month-number">09</div>
+                    <div class="month-name">THÁNG CHÍN</div>
+                    <div class="month-focus">Gặt Hái Thành Quả</div>
+                    <div class="month-description">
+                        Thu hoạch kết quả từ những nỗ lực trước đó. 
+                        Tận hưởng thành công và chuẩn bị cho giai đoạn cuối năm.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Q4: Tháng 10-12 -->
+        <div class="quarter-section">
+            <h3 class="quarter-title">QUÝ IV — HOÀN THIỆN VÀ VƯƠN CAO</h3>
+            <div class="months-grid">
+                <div class="month-card">
+                    <div class="month-number">10</div>
+                    <div class="month-name">THÁNG MƯỜI</div>
+                    <div class="month-focus">Tăng Tốc Cuối Năm</div>
+                    <div class="month-description">
+                        Nước rút quyết liệt để đạt mục tiêu đề ra. 
+                        Huy động mọi nguồn lực cho những thành tựu cuối cùng.
+                    </div>
+                </div>
+
+                <div class="month-card">
+                    <div class="month-number">11</div>
+                    <div class="month-name">THÁNG MƯỜI MỘT</div>
+                    <div class="month-focus">Hoàn Tất Sứ Mệnh</div>
+                    <div class="month-description">
+                        Kết thúc mọi công việc dở dang. Đảm bảo tất cả 
+                        cam kết được thực hiện trọn vẹn và xuất sắc.
+                    </div>
+                </div>
+
+                <div class="month-card">
+                    <div class="month-number">12</div>
+                    <div class="month-name">THÁNG MƯỜI HAI</div>
+                    <div class="month-focus">Tổng Kết Và Hướng Tới Tương Lai</div>
+                    <div class="month-description">
+                        Đánh giá toàn diện một năm hoạt động. Ăn mừng chiến thắng, 
+                        rút kinh nghiệm và vạch kế hoạch cho năm tiếp theo.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Message -->
+    <section class="footer-message">
+        <h3>Cưỡi Ngựa Phi Xa</h3>
+        <div class="accent-line"></div>
+        <p>
+            12 tháng, 12 cơ hội, 12 bước tiến vững chắc. Năm Ngọ 2026 là năm của 
+            sức mạnh, tốc độ và quyết tâm. Hãy lên lưng ngựa và phi thật nhanh, 
+            thật xa trên con đường sự nghiệp hoành tráng!
+        </p>
+    </section>
+
+    <script>
+        // Create subtle floating particles
+        function createParticles() {
+            for (let i = 0; i < 15; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 20 + 's';
+                particle.style.animationDuration = (Math.random() * 10 + 15) + 's';
+                document.body.appendChild(particle);
+            }
+        }
+
+        // Initialize
+        window.addEventListener('load', () => {
+            createParticles();
+        });
+
+        // Smooth scroll reveal for month cards
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.month-card').forEach(card => {
+            observer.observe(card);
+        });
+    </script>
+</body>
+</html>
