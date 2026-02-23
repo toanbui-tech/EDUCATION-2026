@@ -50,3 +50,13 @@ Nếu tất cả những gì bạn có là một cái búa thì mọi thứ trô
 ```
 
 Đây là vấn đề ám ảnh nhiều người mới làm quen với các pattern. Sau khi tìm hiểu về các pattern, họ cố gắng áp dụng chúng ở mọi nơi, ngay cả trong những tình huống mà mã đơn giản hơn sẽ hoạt động tốt.
+# Type 4:
+Bài này dành cho các bạn mới bắt đầu đi làm. Mình tin là nếu hiểu sớm thì bạn sẽ đỡ mất rất nhiều năm sau này. Nó là như vầy:  
+  
+Không ai nợ bạn sự tin tưởng hay những cơ hội lớn ngay từ đầu. Không phải vì bạn không giỏi, mà vì bạn chưa được kiểm chứng. Đi làm không giống đi học. Ở đây, cố gắng không tự động được ghi nhận, và ý định tốt không đủ để tạo niềm tin. Điều mọi người thật sự quan sát là: khi có việc thật, bạn có làm được không, và họ có thể yên tâm giao việc cho bạn hay không.  
+  
+Cho nên, giai đoạn đầu không phải để chứng minh bạn thông minh hay đặc biệt, mà để chứng minh bạn ổn. Ổn trong cách trả lời. Ổn trong việc làm đúng thứ đã hứa. Ổn trong việc đến đúng giờ, làm tròn việc nhỏ, hỏi khi chưa rõ, sửa khi làm sai. Những việc này rất bình thường, rất chán, nhưng chính chúng xây nên niềm tin. Không ai giao việc quan trọng cho người còn làm việc nhỏ một cách cẩu thả.  
+  
+Nhiều người sốt ruột muốn được làm việc lớn sớm, nhưng sự thật là việc lớn chỉ đến với người đã làm việc nhỏ đủ lâu và đủ chắc. Nếu bạn không đáng tin với những thứ không ai khen, bạn sẽ không được tin với những thứ có rủi ro cao. Đây là quy luật, để ý kỹ bạn sẽ thấy.  
+  
+Đi làm là một quá trình trả trước. Bạn trả bằng sự chú ý, sự khiêm tốn, kỷ luật và đều đặn. Phần thưởng - cơ hội, tự do, tiếng nói - luôn đến sau.
