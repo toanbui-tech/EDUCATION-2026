@@ -60,3 +60,15 @@ Cho nên, giai đoạn đầu không phải để chứng minh bạn thông minh
 Nhiều người sốt ruột muốn được làm việc lớn sớm, nhưng sự thật là việc lớn chỉ đến với người đã làm việc nhỏ đủ lâu và đủ chắc. Nếu bạn không đáng tin với những thứ không ai khen, bạn sẽ không được tin với những thứ có rủi ro cao. Đây là quy luật, để ý kỹ bạn sẽ thấy.  
   
 Đi làm là một quá trình trả trước. Bạn trả bằng sự chú ý, sự khiêm tốn, kỷ luật và đều đặn. Phần thưởng - cơ hội, tự do, tiếng nói - luôn đến sau.
+# Type 5:
+A reminder cho các bạn mới bắt đầu đi làm.
+
+Thị trường ít trả tiền cho effort. Thị trường trả tiền cho result, relief. Cho certainty. Cho speed. Và cho confidence mà bạn mang lại, nghĩa là nếu bạn đang sống trong một thế giới mà ai cũng mệt, ai cũng rối, ai cũng bị kéo qua kéo lại bởi quá nhiều lựa chọn và quá nhiều noise, thì thứ có giá trị không phải là bạn đã thức khuya bao nhiêu đêm hay bạn “cố” đến mức nào, mà là khi bạn xuất hiện, người ta thấy nhẹ hơn, thấy rõ hơn, thấy nhanh hơn, thấy đỡ phải lo hơn.
+
+Nhiều người trẻ bị kẹt ở một chỗ (rất oan) - họ làm rất nhiều, học rất nhiều, chịu đựng rất nhiều, rồi họ nghĩ đáng lẽ mình phải được trả nhiều hơn. Nhưng thị trường không đọc được nhật ký chịu khó của bạn. Thị trường chỉ cảm nhận được kết quả mà bạn tạo ra - thường là trong đầu người khác. Bạn có làm người ta bớt đau đầu không. Bạn có làm đường đi của họ bớt mù không. Bạn có làm vấn đề của họ nhỏ lại không. Bạn có làm họ ra quyết định nhanh hơn không. Bạn có làm họ bớt lo sợ không.
+
+Relief là khi bạn giải tỏa một gánh nặng. Certainty là khi bạn giúp họ biết cái gì đúng cho tình huống này. Speed là khi bạn rút ngắn thời gian loay hoay. Confidence là khi bạn khiến họ tin rằng bạn đang đi đúng hướng, không phải bằng cách động viên, mà bằng cách bạn đưa ra cấu trúc, bước đi, và tiêu chuẩn rõ ràng. Và nghe hơi phũ nhưng rất thật: người ta trả tiền cho cảm giác “đỡ mệt” và “đỡ sai” nhiều hơn là trả tiền cho câu chuyện “tôi đã cố gắng.”
+
+Cho nên nếu bạn muốn tăng giá trị của mình, đừng chỉ tăng effort. Hãy tăng khả năng làm người khác nhẹ gánh. Tăng khả năng làm rõ. Tăng khả năng rút ngắn thời gian hay giảm chi phí. Và tăng sự vững vàng trong cách bạn nói và làm, để người ta nhìn bạn và nghĩ: “Ok, người này biết mình đang làm gì.”
+
+If people feel lighter, faster, and safer because of you, you will never be underpaid. Remember that.
