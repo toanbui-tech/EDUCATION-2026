@@ -72,3 +72,29 @@ Relief là khi bạn giải tỏa một gánh nặng. Certainty là khi bạn gi
 Cho nên nếu bạn muốn tăng giá trị của mình, đừng chỉ tăng effort. Hãy tăng khả năng làm người khác nhẹ gánh. Tăng khả năng làm rõ. Tăng khả năng rút ngắn thời gian hay giảm chi phí. Và tăng sự vững vàng trong cách bạn nói và làm, để người ta nhìn bạn và nghĩ: “Ok, người này biết mình đang làm gì.”
 
 If people feel lighter, faster, and safer because of you, you will never be underpaid. Remember that.
+
+# Type 6:
+MÔ HÌNH TRẢ PHÍ SAU KHI DEAL THÀNH CÔNG LÀ MỘT VẤN ĐỀ TRONG NGHỀ HEADHUNT Ở VIỆT NAM
+
+Ngành headhunt vận hành chủ yếu theo mô hình success fee – chỉ trả phí khi tuyển được người. Nghe thì rất công bằng: doanh nghiệp không mất tiền nếu không có kết quả. Nhưng chính mô hình này lại đang tạo ra một cấu trúc khuyến khích đầy mâu thuẫn.
+
+Khi thu nhập của headhunter chỉ xuất hiện tại thời điểm ký offer, toàn bộ áp lực tài chính dồn vào một mục tiêu duy nhất: chốt deal. Không phải xây dựng quan hệ dài hạn. Không phải tư vấn chiến lược nhân sự. Không phải đảm bảo sự phù hợp bền vững. Mà là làm sao để thương vụ hoàn tất.
+Điều đó vô tình đẩy nghề này về phía ngắn hạn.
+
+Headhunter buộc phải xử lý nhiều vị trí cùng lúc để đảm bảo dòng tiền. Họ dễ ưu tiên những deal “dễ chốt” hơn những vị trí chiến lược nhưng phức tạp. Trong áp lực doanh số, ranh giới giữa “tư vấn” và “thúc ép” đôi khi trở nên mong manh.
+
+Ở phía doanh nghiệp, khi không phải trả bất kỳ khoản phí cam kết nào ban đầu, mức độ nghiêm túc cũng có thể bị suy giảm. Gửi yêu cầu cho nhiều headhunter cùng lúc. Thay đổi tiêu chí giữa chừng. Trì hoãn phản hồi. Không rõ ràng về ngân sách. Tất cả đều có thể xảy ra vì… “dù sao mình cũng chưa mất gì”.
+
+Kết quả là cả hai bên đều làm việc trong trạng thái thiếu cam kết thực sự. Headhunter đầu tư thời gian và mạng lưới mà không có bảo đảm. Doanh nghiệp nhận hồ sơ nhưng không chia sẻ rủi ro. Khi deal đổ vỡ, mọi công sức quay về số không.
+
+Mô hình success fee khiến giá trị của nghề bị thu hẹp vào một khoảnh khắc – chữ ký trên offer. Trong khi thực tế, công việc của headhunter bắt đầu từ nghiên cứu thị trường, xây dựng mạng lưới, sàng lọc, đánh giá, thuyết phục và đồng hành cùng ứng viên. Toàn bộ quá trình ấy không được định giá độc lập, chỉ được “thưởng” nếu kết quả cuối cùng thành công.
+
+Điều này khiến nghề headhunt dễ bị nhìn như một hoạt động giao dịch hơn là tư vấn chiến lược.
+
+Trong các lĩnh vực tư vấn khác – luật, kiểm toán, chiến lược – khách hàng trả tiền cho thời gian và chất xám, không chỉ cho kết quả cuối cùng. Nhưng trong headhunt, chúng ta lại thiết kế một mô hình chỉ trả tiền khi có chữ ký. Và khi tiền chỉ gắn với kết quả tức thời, hành vi sẽ xoay quanh kết quả tức thời.
+
+Không phải success fee hoàn toàn sai. Nó tạo động lực và giảm rủi ro cho doanh nghiệp. Nhưng nếu chỉ dựa vào nó, nghề headhunt sẽ luôn bị kéo về phía “deal-making” thay vì “value-creating”.
+
+Một mô hình cân bằng hơn – retainer hoặc hybrid – buộc cả hai bên cùng có cam kết. Doanh nghiệp nghiêm túc hơn với nhu cầu tuyển dụng. Headhunter có điều kiện đầu tư chiều sâu thay vì chạy theo số lượng. Khi cả hai cùng có “skin in the game”, chất lượng tuyển dụng thường tốt hơn.
+
+Muốn nâng tầm nghề headhunt, chúng ta không thể chỉ nói về đạo đức hay kỹ năng. Chúng ta phải nhìn vào cấu trúc khuyến khích. Vì cuối cùng, cách tiền chảy sẽ quyết định cách con người hành xử.
