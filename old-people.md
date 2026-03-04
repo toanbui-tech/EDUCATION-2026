@@ -7,3 +7,8 @@ Oh my goodness, yes we miss being young! When I was young, I never thought about
 I know not all old people feel the way I do, but the majority are going through the same things I am.
 
 Does this old person miss being young, you bet I do!
+
+# Type 3:
+A lot of us old folks are actually fairly young folks trapped in an old body. Young folks never believe that they will someday be trapped in the same kind of body. When I was in the Army during Vietnam most of the guys i was in with had normal body types and still ended up overweight and out of shape. I can’t imagine what all the young out of shape folks think their bodies are going to look like when they get old but I’m really happy I won’t be around to see them.
+
+Just keep thinking your body will be free of aches and pains your whole life and you can do anything you want to it because you’ll never feel old age and will stay invincible. If you feel this way I’m sure your body will have something to say to you later on in your life.
