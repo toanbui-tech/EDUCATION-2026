@@ -202,3 +202,214 @@ Không có gia tộc nào thành thạo “trò mai mối thượng lưu” này
 Trong khi đó, từ Paris đến Madrid rồi Naples, trang phục triều đình ngày càng lộng lẫy, tượng đài và công trình tưởng niệm ngày càng phô trương, và toàn bộ màn trình diễn hoàng gia trở nên rực rỡ và trang nghiêm hơn bao giờ hết — như thể người ta có thể khiến dân chúng bị choáng ngợp đến mức tin rằng một vị vua hay công tước thực sự có quyền cai trị. Nhiều tác phẩm nghệ thuật danh giá đã được đặt làm chính vì mục đích ấy.
 
 - 36 - E10
+
+Nhưng trên hết, các vị cai trị của châu Âu đã nỗ lực hết sức để đặt một vầng hào quang quanh những chiếc đầu đội vương miện của mình: họ cố tỏ ra sùng đạo và bằng mọi giá bảo vệ Đức Tin, vì nhận ra rằng điều này cũng sẽ củng cố vị thế của họ và đánh lạc hướng sự chú ý khỏi bí ẩn về những đặc quyền mà họ đang nắm giữ.
+
+Về sau nữa, đặc biệt sau khi French Revolution đã phá tan mọi ảo tưởng về “quyền thiêng liêng” của các vị vua, một lá bài khá tuyệt vọng khác được đưa ra: “sự đứng đắn, đạo mạo” (respectability).
+
+Các thành viên trong triều đình, Napoleon Bonaparte ra lệnh ngay sau khi đoạt lấy quyền lực, phải tham dự các buổi dạ tiệc (soirées) cùng vợ của mình, nhằm tạo vẻ đứng đắn và tránh những lời đàm tiếu.
+
+“Cái chết của cuộc trò chuyện,” Charles‑Maurice de Talleyrand‑Périgord nhận xét. Quả thật, khi một nhà lãnh đạo phải dựa vào việc tỏ ra đứng đắn, đạo mạo để khẳng định tính chính danh của mình, thì người đó thực sự đang đứng trên lớp băng rất mỏng.
+
+Đối với âm mưu kéo dài này — nơi quyền lực được bao phủ bởi sự hào nhoáng và những nghi thức đạo đức giả — cuốn sách nhỏ của Niccolò Machiavelli luôn là một mối đe dọa thường trực. Nó nhắc nhở mọi người rằng quyền lực luôn là thứ có thể bị giành lấy, luôn là vấn đề ai có thể chiếm được nó bằng vũ lực hoặc mưu mẹo, và bất chấp mọi lời phủ nhận, đó luôn là mối quan tâm hàng đầu của bất kỳ người cai trị nào.
+
+Trong nỗ lực làm mất uy tín của The Prince, cả giới tôn giáo lẫn chính quyền đều nhấn mạnh sự ngưỡng mộ của tác giả đối với vị lãnh chúa tàn nhẫn Cesare Borgia, nhưng lại không hề nhắc tới nhận định của ông rằng về lâu dài, một người cai trị phải tránh bị dân chúng căm ghét và luôn đặt lợi ích của họ lên trên lợi ích của giới quý tộc. Machiavelli suy ngẫm rằng dân chúng đông đảo đến mức cuối cùng quyền lực thực sự nằm trong tay họ.
+
+Các nhà tư tưởng tự do và cánh tả nhanh chóng nắm bắt khía cạnh này của cuốn sách. Theo Jean‑Jacques Rousseau, toàn bộ The Prince thực chất là một mưu kế kiểu Machiavelli: tác giả chỉ giả vờ viết những bài học cho các vị vua, trong khi mục tiêu thật sự là dạy người dân cách trở nên tự do, bằng cách cho họ thấy rằng quyền lực hoàng gia thực chất không hơn gì một trò lừa dối.
+
+Baruch Spinoza và sau này là nhà thơ Ý Ugo Foscolo cũng nhìn nhận theo cách tương tự: The Prince là một câu chuyện cảnh tỉnh về cách quyền lực thực sự vận hành. Ý định sâu xa của nó là tước bỏ vẻ trang nghiêm và hào nhoáng của những kẻ nắm quyền, đồng thời dạy toàn thể nhân dân cách chống lại quyền lực đó; rốt cuộc, Machiavelli đã tự tuyên bố mình là một người cộng hòa và một người theo chủ nghĩa tự do.
+
+Nhà lãnh đạo cộng sản Antonio Gramsci thậm chí còn cho rằng The Prince báo trước ý tưởng về chuyên chính vô sản.
+
+Những người khác lại có quan điểm truyền thống hơn: Bertrand Russell mô tả The Prince như “một cuốn cẩm nang cho bọn xã hội đen”, và khi nói như vậy ông thực chất chỉ lặp lại lập trường của Frederick the Great. Vị vua này từng viết một cuốn sách để phản bác Machiavelli và trình bày một tầm nhìn lý tưởng hơn về chế độ quân chủ.
+
+Một số học giả khác — như Jakob Burckhardt và Friedrich Meinecke — tìm một vị trí ở giữa sự lên án và sự ngưỡng mộ. Họ cho rằng điểm mới mẻ của Niccolò Machiavelli là đã trình bày lãnh đạo và việc xây dựng quốc gia như những quá trình sáng tạo, và vì thế chúng nên được đánh giá không phải bằng đạo đức, mà bằng thẩm mỹ. Theo cách nhìn này — phần nào dự báo tư tưởng của Friedrich Nietzsche — nhà lãnh đạo có sức hút cá nhân biến chính bản thân mình và chính quyền của mình thành một tác phẩm nghệ thuật.
+
+Benito Mussolini thì đơn giản tiếp nhận cuốn sách theo đúng nghĩa đen: ông nhiệt tình ca ngợi nó như một cuốn “vade mecum” (sách gối đầu giường) cho các chính khách.
+
+Nhưng dù chúng ta diễn giải ý định của Machiavelli theo cách nào, có một phản ứng mà ông hầu như không bao giờ gây ra: sự thờ ơ. Khi đọc The Prince, gần như không thể tránh khỏi việc phải đối diện với ý tưởng gây bất an rằng chính trị không thể được điều hành theo những quy tắc đạo đức mà phần lớn chúng ta cố gắng tuân theo trong đời sống thường ngày.
+
+Và dù chúng ta phản ứng với ý tưởng đó ra sao, một khi đã khép cuốn sách lại, rất khó để tiếp tục nhìn các nhà lãnh đạo của mình giống như trước khi đọc nó.
+
+Các bản dịch có xu hướng bị phủ bụi theo thời gian. Điều này không xảy ra với nguyên tác. Khi chúng ta đọc Geoffrey Chaucer hay William Shakespeare, đôi khi ta cần chú giải, hoặc trong trường hợp của Chaucer thì cần một bản dịch hiện đại, nhưng ta chỉ dùng những thứ đó để rồi có thể thưởng thức tác phẩm đúng như khi nó được viết ra lần đầu. Và ta bị ấn tượng bởi sự trực tiếp và tươi mới của nó, như thể ta vừa học được một ngoại ngữ trong thời gian rất ngắn, với rất ít nỗ lực nhưng thu được phần thưởng tối đa.
+
+Nhưng điều này không đúng với một bản dịch cũ. Nếu ngày nay ta đọc bản dịch Alexander Pope của Homer, thì ta đọc nó vì muốn đọc Pope, chứ không phải Homer. Về mặt ngôn ngữ, bản dịch ấy khiến ta chú ý nhiều hơn đến ngôn ngữ và thi ca của thế kỷ 18 của chúng ta, hơn là đến Homer hay Hy Lạp cổ đại.
+
+Vì thế, việc thử thực hiện một bản dịch mới của The Prince của Niccolò Machiavelli không có nghĩa là phủ nhận rằng các bản dịch trước đó là kém. Chúng ta chỉ đơn giản thừa nhận rằng những bản dịch cũ ấy giờ đây tự chúng đã trở thành những dấu mốc trong lịch sử tiếng Anh, và vì vậy chúng thu hút sự chú ý vào chính mình. Dĩ nhiên, nỗ lực của tôi rồi một ngày nào đó cũng sẽ gặp số phận tương tự.
+
+Những sự phân tâm như vậy đặc biệt không may đối với Machiavelli, người luôn khẳng định rằng ông chỉ quan tâm đến phong cách viết trong chừng mực nó có thể truyền tải nội dung một cách trực tiếp, không rườm rà hay phô trương. “Tôi không làm cho cuốn sách trở nên bóng bẩy,” ông nói, “cũng không kéo dài nó bằng những câu văn lê thê hay những từ ngữ khoa trương, kiểu cách, hoặc những thứ trang sức vô nghĩa mà nhiều tác giả thường dùng; tôi không muốn nó làm người ta thích thú vì bất cứ điều gì ngoài phạm vi và sự nghiêm túc của chủ đề mà nó bàn tới.”
+
+Tôi đã lấy tuyên bố về ý định đó làm kim chỉ nam cho bản dịch này, cố gắng — bất cứ khi nào có thể — giải phóng văn bản khỏi những lối dùng từ cổ và sự cổ kính đã trở nên gượng gạo trong các bản tiếng Anh trước đây, để tiếp cận ý nghĩa cốt lõi của nguyên tác và truyền tải nó — như cách chúng ta nói ngày nay (dù có thể không còn nói như vậy vào ngày mai) — một cách trực tiếp, thẳng thắn.
+
+Điều đó không hề dễ. Vấn đề đầu tiên — và cũng là vấn đề kéo theo tất cả những vấn đề khác — đã xuất hiện ngay trong tựa đề: The Prince.
+
+Đối với Niccolò Machiavelli, “prince” nghĩa là gì?
+Một công tước (duke) là một prince. Giáo hoàng là một prince. Hoàng đế La Mã là một prince. Vua nước Pháp là một prince. Lãnh chúa của Imola cũng là một prince.
+
+Nhưng cách hiểu này không còn phù hợp với tiếng Anh hiện đại. Người Anh có Charles III — trước đây là Prince Charles. Và vấn đề với Prince Charles là: ông không phải King Charles, và trong một thời gian dài người ta từng nghĩ rằng có lẽ ông sẽ không bao giờ trở thành vua.
+
+Ngay cả nếu ông trở thành vua, ông cũng không nắm quyền lực thực sự, thậm chí không có loại quyền lực mà giáo hoàng nắm giữ. Và chúng ta không bao giờ nghĩ đến giáo hoàng như một vị vua hay một “prince” theo nghĩa thông thường.
+
+Trong tiếng Anh, ý niệm còn lại duy nhất về “the prince” là Prince Charming. Khái niệm này cách rất xa hình ảnh Charles III khi còn là Prince Charles đã lớn tuổi, và còn xa hơn nữa so với kiểu “prince” mà Niccolò Machiavelli đang nói đến.
+
+Từ “prince” của Machiavelli không có nghĩa là “con trai của nhà vua”, và càng không phải “một chàng trai trẻ quyến rũ đi cầu hôn”. Từ “principe” của ông chỉ chung những người nắm quyền lực, những người cai trị một quốc gia. “Prince” ở đây là người đứng đầu, người quan trọng nhất.
+
+Vì thế, người dịch dễ bị cám dỗ dùng từ “king” (vua). Ít nhất trong quá khứ, một vị vua đứng ở đỉnh của hệ thống thứ bậc, là người quan trọng nhất. Nhưng khi dịch Machiavelli, thật khó dùng từ “king” để chỉ lãnh chúa của Imola, hay giáo hoàng, hoặc một hoàng đế La Mã.
+
+Cuối cùng, trong khả năng có thể, tôi giải quyết vấn đề này bằng cách dùng từ khá kém hấp dẫn là “ruler” (người cai trị), hoặc thậm chí từ tổng quát hơn là “leader” (nhà lãnh đạo), nhưng luôn làm rõ rằng chúng ta đang nói về nhà lãnh đạo chính trị của một quốc gia.
+
+Tuy vậy, tựa đề nổi tiếng của cuốn sách — The Prince — thì phải giữ nguyên như vậy.
+
+Điều khó giải quyết hơn nữa là việc dịch từ “virtù”, cùng với một số từ khác xoay quanh nó. Thật dễ dàng nếu chỉ viết từ tương đương trong tiếng Anh là “virtue” (đức hạnh), nghĩa là đối lập với tật xấu. Nhưng đó không phải điều Niccolò Machiavelli muốn nói.
+
+Ông không quan tâm đến cặp đối lập “thiện / ác”, mà quan tâm đến thắng và thua, mạnh và yếu, thành công và thất bại. Đối với Machiavelli, “virtù” là bất kỳ phẩm chất tính cách nào giúp một người giành được quyền lực chính trị hoặc giữ được nó; nói ngắn gọn, đó là một phẩm chất giúp chiến thắng.
+
+Nó có thể là:
+
+lòng dũng cảm trên chiến trường,
+
+sức mạnh cá tính,
+
+sự mưu lược chính trị,
+
+thậm chí sự tàn nhẫn lạnh lùng khiến thần dân hiểu rằng người cai trị thực sự nghiêm túc với quyền lực của mình.
+
+Nhưng người dịch khó có thể dùng những từ như “mưu mẹo” hay “tàn nhẫn” để dịch “virtù”, ngay cả khi biết rằng trong ngữ cảnh đó ý nghĩa là như vậy. Bởi làm thế sẽ mất đi ý tưởng rằng dù Machiavelli không nói về các đức hạnh đạo đức, ông vẫn muốn gán cho những phẩm chất này một sắc thái tích cực. Sự tàn nhẫn ấy nhằm giải quyết vấn đề, giữ vững quyền lực và duy trì sức mạnh của nhà nước, vì vậy trong bối cảnh này nó vẫn được xem là một “virtù”.
+
+Vì thế, dù nghe có vẻ không đẹp tai, đôi khi tôi buộc phải dịch “virtù” thành “những phẩm chất tích cực” hoặc “sức mạnh tính cách” — ngoại trừ trong những trường hợp (và quả thật có những trường hợp như vậy) khi Machiavelli thực sự muốn nói đến “đức hạnh” theo nghĩa đạo đức. Nhưng ngay cả khi đó, ông thường nói về tầm quan trọng của việc giả vờ có những đức hạnh ấy, ngay cả khi thực tế bạn không hề có.
+
+Và dĩ nhiên, giả vờ — khi được sử dụng một cách khôn ngoan cho mục đích thích hợp — cũng là một dạng “virtù” quan trọng.
+
+Khái niệm “spin doctor” (người chuyên xoay chuyển, định hướng dư luận chính trị) không phải được phát minh vào những năm 1990.
+
+Liên quan đến hai vấn đề cụ thể này — “prince” và “virtù” — còn có một khó khăn tổng quát hơn: rất nhiều từ khóa mà Niccolò Machiavelli sử dụng có từ tương ứng trong tiếng Anh thông qua tiếng Latin — fortuna, audace, circospetto, malignità, diligente, v.v.
+
+Trong một số trường hợp, chúng thực sự là từ tương đương trực tiếp — chẳng hạn prudente / prudent. Nhưng ngay cả khi dùng những từ tương ứng này, bản dịch tiếng Anh cũng dễ bị kéo trở lại một phong cách cổ kính, hơi phủ bụi. Ngày nay, chẳng phải chúng ta thường dùng các từ như “careful” (cẩn trọng), “cautious” (thận trọng) hoặc “considered” (đã cân nhắc kỹ) nhiều hơn là từ “prudent” hay sao?
+
+Một khó khăn tương tự cũng xảy ra khi không có từ tương ứng trực tiếp trong tiếng Anh, nhưng lại tồn tại một bản dịch truyền thống đã được cố định trong từ điển cho một từ Ý cổ. Machiavelli thường dùng từ “savio”, vốn thường được dịch là “wise” (khôn ngoan). Nhưng cách dịch này cũng dễ khiến bản tiếng Anh trôi về phong cách cổ trang, hơi gò bó, vốn thường được dùng khi chuyển ngữ các tác phẩm kinh điển.
+
+Trong nhiều trường hợp, những lựa chọn như “sensible” (hợp lý) hoặc “shrewd” (sắc sảo) — tùy theo ngữ cảnh — có thể vừa chính xác hơn, vừa tạo ra một văn phong ít khiến người đọc chú ý rằng đây là bản dịch.
+
+Vì vậy, câu hỏi luôn lặp lại khi dịch The Prince là:
+
+Nếu ngày nay chúng ta nói về những phẩm chất và tình huống mà Machiavelli mô tả, chúng ta sẽ dùng những từ nào?
+
+Dĩ nhiên, đôi khi không có từ hiện đại tương ứng, bởi có những thứ — như máy công thành hay cuộc tấn công của kỵ binh — mà ngày nay chúng ta không còn nói đến nữa.
+
+Tuy vậy, nhìn chung Machiavelli chủ yếu quan tâm đến tâm lý học, hay chính xác hơn là sự tương tác giữa những cá tính khác nhau trong các tình huống khủng hoảng. Ở lĩnh vực này, miễn là người dịch tránh cám dỗ đưa vào những thuật ngữ thời thượng dễ gây hiểu lầm, thì hoàn toàn có thể làm được rất nhiều để đưa The Prince vào một thứ tiếng Anh hiện đại, rõ ràng và dễ hiểu.
+
+Tuy nhiên, khó khăn trong việc lựa chọn từ ngữ này còn tăng lên gấp bội bởi ngữ pháp thất thường và cú pháp cực kỳ linh hoạt của Niccolò Machiavelli. Được viết vào năm 1513, The Prince không dễ hiểu ngay cả đối với người Ý ngày nay. Các ấn bản gần đây của tác phẩm thường được in song song: nguyên văn tiếng Ý cổ ở một bên và bản tiếng Ý hiện đại ở bên kia.
+
+Đối với độc giả Ý, trở ngại hầu như không nằm ở từ vựng — cuối cùng họ vẫn có thể hiểu khoảng 90% các từ mà Machiavelli dùng. Khó khăn thực sự nằm ở sự kết hợp giữa nhiều yếu tố khác nhau:
+
+sự cô đọng tư duy cực độ,
+
+ngữ pháp đã lỗi thời, đôi khi thất thường,
+
+và trên hết là một cấu trúc câu đầy các mệnh đề phụ và các cụm bổ nghĩa đặt trước, theo những cách mà độc giả hiện đại không còn quen nữa.
+
+Chúng ta không nói đến những câu văn dài, phức tạp nhưng luôn thanh nhã kiểu Cicero — loại câu văn được ngưỡng mộ và thường được các nhà văn Anh thời Augustan bắt chước. Machiavelli có một giọng văn giống lời nói hơn: linh hoạt, mang tính thuyết phục, đôi khi thẳng thừng và cộc lốc. Để tái tạo được giọng điệu đó trong tiếng Anh, người dịch phải chọn một cấu trúc câu khá khác so với nguyên bản tiếng Ý.
+
+Đặc biệt, thứ tự trình bày thông tin trong câu thường phải được sắp xếp lại.
+
+Để giúp người đọc hình dung mình có thể mong đợi điều gì, dưới đây là ba phiên bản của cùng một đoạn văn, trong đó phiên bản cuối cùng là bản dịch của tôi. Tôi không chọn một ví dụ quá phức tạp; đó chỉ là một đoạn khá bình thường, nơi — như thường thấy ở Machiavelli — ông đặt ra một tình huống, rồi xem xét các phản ứng có thể có đối với tình huống đó và hậu quả của từng phản ứng.
+
+Bản dịch đầu tiên là của William K. Marriott, được xuất bản vào năm 1908.
+
+Một người cai trị cũng sẽ được kính trọng khi ông ta hoặc là một người bạn thực sự, hoặc là một kẻ thù dứt khoát; nghĩa là, không do dự, ông tuyên bố đứng hẳn về một phe chống lại phe kia. Cách hành xử này luôn có lợi hơn việc đứng trung lập. Bởi vì khi hai láng giềng hùng mạnh của bạn xung đột, tình huống thường sẽ như sau: nếu một bên chiến thắng, thì bạn hoặc sẽ phải sợ họ, hoặc không.
+
+Trong cả hai trường hợp, việc tuyên bố lập trường và tham chiến quyết liệt luôn có lợi hơn. Bởi trong trường hợp thứ nhất, nếu bạn không tuyên bố đứng về phía nào, cuối cùng bạn sẽ trở thành chiến lợi phẩm của kẻ chiến thắng, làm hài lòng cả kẻ chiến thắng lẫn kẻ bại trận, và bạn không có lý lẽ nào để biện hộ, cũng không có gì để bảo vệ hay che chở cho mình.
+
+Bởi vì kẻ chiến thắng không muốn những người bạn mập mờ, những người không giúp đỡ họ trong lúc thử thách; còn kẻ thua cuộc cũng không dung chứa bạn, bởi bạn đã không tự nguyện cầm gươm chiến đấu và chia sẻ số phận của họ.
+
+Đây là bản dịch thứ hai, của George Bull, xuất bản năm 1961, của đoạn trong The Prince của Niccolò Machiavelli:
+
+Một người cai trị cũng giành được uy tín khi ông ta là một người bạn thực sự hoặc một kẻ thù thực sự — nghĩa là khi ông ta bộc lộ lập trường của mình mà không hề do dự, đứng hẳn về một phía chống lại phía kia. Chính sách này luôn có lợi hơn sự trung lập.
+
+Ví dụ, nếu các thế lực láng giềng của bạn xung đột với nhau, thì hoặc là họ thuộc loại mà nếu một bên chiến thắng, bạn sẽ gặp nguy hiểm, hoặc là không. Trong cả hai trường hợp, việc tuyên bố lập trường và tiến hành một cuộc chiến mạnh mẽ luôn có lợi cho bạn.
+
+Bởi vì trong trường hợp thứ nhất, nếu bạn không tuyên bố đứng về phía nào, bạn sẽ luôn nằm trong tay kẻ chiến thắng, điều này làm hài lòng và thỏa mãn kẻ bại trận, và bạn sẽ không có lời biện minh nào, cũng không có cách nào để tìm kiếm sự bảo vệ hay nơi trú ẩn.
+
+Kẻ chiến thắng không muốn những người bạn mập mờ, những người không giúp đỡ mình khi gặp khó khăn; còn kẻ thua cuộc thì từ chối bạn, vì bạn đã không sẵn sàng cầm vũ khí và gắn số phận của mình với họ.
+
+Dưới đây là bản dịch của chính tác giả bản dịch mới (được nhắc đến trong phần giới thiệu của The Prince, tác phẩm của Niccolò Machiavelli):
+
+Một người cai trị cũng sẽ được kính trọng khi ông ta là một người bạn thật sự và một kẻ thù thật sự, nghĩa là khi ông ta tuyên bố lập trường một cách rõ ràng, đứng về một phía và chống lại phía kia. Chính sách này luôn mang lại kết quả tốt hơn sự trung lập.
+
+Ví dụ, nếu bạn có hai láng giềng hùng mạnh đang chiến tranh với nhau, thì sau đó bạn có thể có hoặc không có lý do để sợ kẻ chiến thắng. Dù thế nào đi nữa, đứng về một phía và chiến đấu quyết liệt luôn là lựa chọn tốt hơn.
+
+Nếu bạn thực sự có lý do để sợ nhưng vẫn giữ trung lập, cuối cùng bạn vẫn sẽ bị kẻ chiến thắng nuốt chửng, trong khi kẻ thua cuộc cũng cảm thấy hài lòng và khoái chí; bạn sẽ không có lời bào chữa nào, không có cách tự vệ, và cũng không có nơi nào để trốn.
+
+Bởi vì kẻ chiến thắng không muốn những người bạn nửa vời, những người không giúp mình trong lúc khủng hoảng; còn kẻ thua cuộc cũng không muốn dính dáng đến bạn, vì bạn đã không chọn chiến đấu bên cạnh họ và chia sẻ số phận của họ.
+
+Ở đây có thể thấy rõ rằng bản dịch của George Bull gần với văn xuôi hiện đại hơn, nhưng người ta vẫn cảm thấy rằng nếu một người ngày nay viết lại ý tưởng này bằng tiếng Anh, họ sẽ không giới thiệu phần thứ hai của lựa chọn theo cách Bull làm — tức là gắn thêm cụm “or they are not” ở cuối câu, sau khi đã mở đầu bằng một mệnh đề “if”.
+
+Nếu chúng ta giữ cấu trúc tổng thể của Bull nhưng đưa phần lựa chọn lên phía trước, chẳng hạn:
+
+“either they are or they aren’t such that if one of them conquers, you will be in danger”
+
+thì câu văn trở nên trôi chảy hơn.
+
+Tuy nhiên, cuối cùng tôi nhận ra rằng giải pháp đơn giản nhất là chuyển yếu tố lựa chọn (alternative) sang động từ “fear” thay vì gắn nó vào việc mô tả hai trạng thái của tình huống. Cách làm này giữ nguyên ý nghĩa của câu, đồng thời cho phép bản dịch gần hơn với lối diễn đạt ngắn gọn, gần như điện tín của nguyên bản trong The Prince của Niccolò Machiavelli.
+
+Vì thế câu được dịch thành:
+
+“… you may or may not have reason to fear the winner afterwards.”
+
+Nghĩa là:
+
+“… sau đó bạn có thể có — hoặc không có — lý do để sợ kẻ chiến thắng.”
+
+Cách này:
+
+rút gọn cấu trúc câu,
+
+giữ logic của Machiavelli,
+
+và tạo nhịp điệu tự nhiên trong tiếng Anh hiện đại.
+
+Tại đây tôi muốn nói rằng tôi dành sự tôn trọng lớn nhất cho hai bản dịch trước đó, và cả nhiều bản dịch khác nữa. Tôi mắc nợ họ rất nhiều, bởi vì mặc dù tôi luôn dịch trực tiếp từ nguyên bản, sau đó tôi vẫn quay lại các bản dịch này và các bản dịch tiếng Ý hiện đại để xem chúng khác nhau ở điểm nào, rồi suy ngẫm xem mình có thể học được gì từ đó.
+
+Bản văn gốc đôi khi khó đến mức trong bốn bản dịch tôi tham khảo — hai bản tiếng Anh và hai bản tiếng Ý — mỗi bản lại đưa ra một cách diễn giải khác nhau. Trong những trường hợp như vậy, người dịch thực sự phải điều chỉnh mình theo cách suy nghĩ của Machiavelli, theo sự nhấn mạnh của ông vào logic, lý trí và suy luận, và nhớ rằng mỗi mệnh đề, nếu không phải mỗi từ, đều được đặt vào đó với một mục đích nhất định.
+
+Đây là một ví dụ nhỏ. Sau khi khẳng định rằng người cai trị phải bằng mọi giá tránh để bị thần dân căm ghét, và rằng sự căm ghét ấy hầu như luôn là nguyên nhân dẫn đến sự sụp đổ của một nhà lãnh đạo, Machiavelli dự đoán rằng sẽ có người phản đối: nhiều hoàng đế La Mã vẫn giữ được quyền lực dù bị dân chúng ghét bỏ, hoặc lại mất quyền lực dù được yêu mến.
+
+“Để trả lời những phản đối này,” ông viết, “tôi sẽ xem xét phẩm chất của một số vị hoàng đế ấy, và chỉ ra rằng nguyên nhân dẫn đến sự sụp đổ của họ hoàn toàn không mâu thuẫn với lập luận tôi đã nêu ở trên.”
+
+Cho đến đây thì mọi thứ đều rõ ràng. Nhưng câu này sau đó kết thúc bằng:
+
+… e parte metterò in considerazione quelle cose che sono notabili a chi legge le azioni di quelli tempi.
+
+Tạm dịch:
+
+“… và tôi cũng sẽ xem xét một số điều đáng chú ý đối với bất kỳ ai đọc về những hành động của thời đại ấy.”
+
+Nếu dịch từng chữ, câu này sẽ thành:
+
+“… và một phần tôi sẽ đưa vào xem xét những điều quan trọng đối với những người đọc các sự kiện của thời đại đó.”
+
+Điều này thực sự nói về cái gì? Vì sao Machiavelli lại cảm thấy cần phải thêm những từ này vào một câu vốn đã có vẻ đủ rõ ràng?
+
+George Bull dịch như sau:
+
+“… I shall submit for consideration examples which are well known to students of the period.”
+
+Nghe có vẻ hợp lý và mang phong cách học thuật, nhưng thực ra không chính xác:
+
+Từ “parte” (một phần) đã biến mất.
+
+Cụm “submit for consideration” có thể là một công thức quen thuộc trong tiếng Anh, nhưng liệu nó có thực sự giống với cách diễn đạt khá lạ của Machiavelli là “put in consideration” không?
+
+Từ “notabile” không hẳn có nghĩa là “well known” (nổi tiếng/quen thuộc), mà gần hơn với “worthy of note” (đáng chú ý) hoặc “important” (quan trọng).
+
+William K. Marriott thì dịch:
+
+“… at the same time I will only submit for consideration those things that are noteworthy to him who studies the affairs of those times.”
+
+Ở đây lại xuất hiện công thức quen thuộc “submit for consideration”, trong khi “at the same time” và “only” đều là những từ do người dịch tự thêm vào.
+
+Kết quả là câu văn nghe như thể Machiavelli đang trấn an người đọc rằng ông chỉ xem xét những ví dụ có liên quan. Nhưng kiểu phòng thủ như vậy không phải phong cách của Machiavelli.
+
+Tại sao người đọc lại phải nghi ngờ rằng ông sẽ đưa ra những ví dụ không liên quan?
+
+# 50 - B4
