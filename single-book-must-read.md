@@ -477,4 +477,43 @@ Tại đây, chúng ta tiến gần hơn đến “vụ tai tiếng” tinh vi h
 
 Đối với ông, vấn đề nằm ở việc lựa chọn khôn ngoan hay sai lầm, chứ không phải thiện hay ác. Khi ông đưa Borgia như một hình mẫu, thì cả đạo đức lẫn vô đạo đức đều không phải là trọng tâm; điều quan trọng duy nhất là người này biết cách giành lấy quyền lực, giữ vững nó và xây dựng một nhà nước mạnh.
 
-# 54 - E6
+Cuối cùng, người ta không thể không nhận ra một sự e dè kiểu Victorian era trong các bản dịch trước đây. Niccolò Machiavelli vốn nổi tiếng là người đa tình, và khi viết The Prince, ông tin rằng mình đang hướng đến một độc giả nam giới—những người không bận tâm đến cái gọi là “đúng đắn chính trị”. Khi ông nói “la fortuna è donna, et è necessario, volendola tenere sotto, batterla et urtarla” — dịch sát nghĩa: “vận may là đàn bà, và nếu muốn giữ nó ở dưới quyền, cần phải đánh đập và xô đẩy nó” — thì rõ ràng có một ẩn dụ mang tính tình dục. Câu này xuất hiện ở đoạn cuối cùng của The Prince (phần lời kêu gọi kết thúc thực ra khá tách biệt), và Machiavelli muốn kết thúc bằng một giọng điệu mạnh mẽ nhưng, theo cách ông nhìn nhận, cũng là dí dỏm.
+
+Dưới đây là bản dịch của Marriot cho toàn bộ đoạn cuối:
+
+“Tôi kết luận rằng, bởi vận may là thứ thay đổi thất thường, còn con người thì cố chấp trong cách hành xử của mình, nên khi hai yếu tố này hòa hợp thì con người thành công, còn khi chúng xung đột thì thất bại. Về phần tôi, tôi cho rằng thà liều lĩnh còn hơn thận trọng, bởi vì vận may là đàn bà, và nếu anh muốn chế ngự nàng, cần phải đánh đập và đối xử thô bạo với nàng; và người ta thấy rằng nàng để mình bị khuất phục bởi những kẻ táo bạo hơn là bởi những kẻ hành động một cách lạnh lùng. Vì vậy, nàng luôn luôn, giống như phụ nữ, ưa thích những người đàn ông trẻ tuổi hơn, bởi họ ít thận trọng hơn, bạo liệt hơn, và với nhiều sự táo bạo hơn trong việc chi phối nàng.”
+
+Dưới đây là bản dịch đoạn văn bạn đưa:
+
+“Tôi hy vọng rằng mình đang tiến gần hơn đến tinh thần của vấn đề và, dù tốt hay xấu, đến kiểu con người mà Niccolò Machiavelli vốn là, khi đưa ra bản này:
+
+Vậy thì, để kết luận: vận may thay đổi, còn con người thì vẫn cứ tiến lên bất chấp. Khi cách tiếp cận của họ phù hợp với thời thế, họ thành công; còn khi không, họ thất bại. Quan điểm của tôi về vấn đề này là: thà bốc đồng còn hơn thận trọng; vận may là phụ nữ, và nếu bạn muốn ở thế thượng phong với nàng, bạn phải tát và thúc ép. Bạn sẽ thấy nàng dễ khuất phục theo cách đó hơn là với những kẻ tiếp cận một cách lạnh lùng. Và vì là phụ nữ, nàng thích những người đàn ông trẻ—bởi họ không quá dè dặt, họ hoang dã hơn và táo bạo hơn khi chế ngự nàng.”
+
+---
+
+# THE PRINCE
+Dưới đây là bản dịch tiếng Việt:
+
+**Thư gửi Lorenzo de’ Medici**
+
+Những người tìm cách giành được thiện cảm của một quân vương thường dâng tặng ông những thứ mà bản thân họ trân quý nhất, hoặc những gì họ thấy ông đặc biệt ưa thích. Vì thế, các vị vua chúa luôn được biếu tặng ngựa, vũ khí, gấm vóc, châu báu và mọi thứ xa hoa phù hợp. Bản thân tôi, cũng tha thiết muốn dâng lên Đức Ngài một dấu hiệu của lòng trung thành, nhận ra rằng không có gì quý giá hay quan trọng hơn đối với tôi bằng hiểu biết của mình về những vĩ nhân và hành trạng của họ—một hiểu biết có được nhờ kinh nghiệm lâu dài về thời cuộc đương đại và việc không ngừng nghiên cứu lịch sử cổ đại. Sau khi suy ngẫm toàn bộ những điều đã học và phân tích chúng một cách cẩn trọng nhất, tôi đã ghi chép lại tất cả trong một cuốn sách ngắn mà nay tôi xin gửi tới Đức Ngài.
+
+Và mặc dù món quà này chắc chắn không xứng đáng với Ngài, tôi tin rằng kinh nghiệm chứa đựng trong đó sẽ khiến nó trở nên đáng được đón nhận—đặc biệt khi Ngài nghĩ rằng tôi khó có thể dâng tặng điều gì tốt hơn là cơ hội để nắm bắt trong vài giờ những gì tôi đã khám phá và lĩnh hội qua nhiều năm tháng hiểm nguy và gian khó. Tôi không tô điểm cuốn sách bằng văn chương hoa mỹ, không kéo dài nó bằng những câu chữ dài dòng hay những lời lẽ khoa trương, phù phiếm, cũng không thêm thắt những chi tiết rườm rà mà nhiều tác giả thường sử dụng; tôi không muốn nó gây ấn tượng bởi bất cứ điều gì ngoài phạm vi và sự nghiêm túc của nội dung. Và tôi cũng hy vọng Ngài sẽ không cho là ngạo mạn khi một người ở địa vị thấp kém—thực sự là thấp nhất—lại dám bàn về cách các bậc quân vương nên cai trị dân chúng của mình. Cũng như những họa sĩ vẽ phong cảnh phải đứng dưới thung lũng để quan sát núi non, và lên núi để nhìn xuống thung lũng, thì để hiểu được bản chất của dân chúng, người ta phải là một vị quân vương; còn để hiểu bản chất của một vị quân vương, người ta phải là một người dân.
+
+Thưa Đức Ngài, xin hãy đón nhận món quà nhỏ bé này với đúng tinh thần mà nó được trao tặng. Hãy nghiên cứu nó cẩn thận, và Ngài sẽ thấy rằng mong muốn tha thiết nhất của tôi là Ngài đạt được sự vĩ đại mà địa vị và phẩm chất của Ngài hứa hẹn. Và rồi, nếu từ đỉnh cao quyền lực của mình, Ngài có lúc nhìn xuống những người ở rất xa phía dưới, Ngài sẽ thấy cuộc đời đã đối xử với tôi khắc nghiệt và bất công đến nhường nào.”
+
+## Các loại nhà nước khác nhau và cách chinh phục chúng
+
+Mọi quốc gia và chính thể từng cai trị con người đều thuộc một trong hai loại: cộng hòa hoặc quân chủ. Các chế độ quân chủ có thể là cha truyền con nối, nếu gia tộc của nhà cai trị đã nắm quyền qua nhiều thế hệ, hoặc là mới. Các chế độ quân chủ mới có thể hoàn toàn mới—như khi Francesco Sforza chiếm được Milan—hoặc là những lãnh thổ được một nhà cai trị sáp nhập vào quốc gia cha truyền con nối của mình bằng chinh phục, như khi vua của Spain chiếm Naples.
+
+Một lãnh thổ mới giành được bằng chinh phục có thể vốn quen sống dưới quyền một quân chủ, hoặc quen với tự do tự trị; và nó có thể bị chinh phục bởi quân đội của chính nhà cai trị mới, hoặc bởi quân của một bên thứ ba—nhờ may mắn hoặc do năng lực thực sự.
+
+## Các chế độ quân chủ cha truyền con nối
+
+Tôi sẽ không bàn về các nước cộng hòa, vì tôi đã viết khá đầy đủ về chúng ở nơi khác. Thay vào đó, tôi tập trung vào các chế độ quân chủ, xét các tình huống đã nêu trên và bàn xem mỗi loại nhà nước nên được cai trị và duy trì như thế nào cho tốt nhất.
+
+Trước hết, cần lưu ý rằng các chế độ quân chủ cha truyền con nối—nơi dân chúng đã quen từ lâu với gia tộc cầm quyền—dễ giữ hơn nhiều so với các chế độ mới. Một quân vương chỉ cần tránh làm xáo trộn trật tự do tổ tiên để lại, điều chỉnh chính sách cho phù hợp với hoàn cảnh khi có biến động; và nếu ông có năng lực ở mức trung bình, ông sẽ giữ được vương quốc của mình suốt đời. Chỉ có một lực lượng đặc biệt mạnh mẽ và áp đảo mới có thể tước đoạt nó khỏi tay ông; và ngay cả khi điều đó xảy ra, ông cũng sẽ giành lại được ngay khi kẻ chiếm đóng gặp khó khăn.
+
+Một ví dụ điển hình ở Italy là Công quốc Ferrara. Năm 1484 và 1510, công quốc này từng bị các thế lực ngoại bang chinh phục trong thời gian ngắn—trước là người Venice, sau là Giáo hoàng Julius II—nhưng những thất bại đó không liên quan gì đến việc nơi đây có một dòng họ cầm quyền đã được thiết lập vững chắc từ lâu. Một người thừa kế quyền lực có ít lý do và nhu cầu làm phật lòng thần dân hơn so với một nhà cai trị mới, vì vậy cũng được yêu mến hơn. Nếu ông không tự chuốc lấy sự căm ghét, thì hợp lý khi cho rằng dân chúng sẽ ủng hộ ông. Khi một triều đại tồn tại qua nhiều thế hệ, ký ức dần phai nhạt, và động cơ thay đổi cũng vậy; ngược lại, những biến động luôn để lại nền móng cho các biến động tiếp theo.”
+
+# 65
