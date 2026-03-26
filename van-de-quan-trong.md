@@ -209,3 +209,11 @@ Nếu bạn đã đọc đến đây, hãy nhớ:
 > Đã đến lúc gác lại “vai diễn”…
 > để được là chính mình.
 > Đúng nghĩa.
+
+
+---
+# Type 1:
+Tại sao mình nghĩ rằng xã hội có thể làm điều đó vs mình.
+Bởi vì trước đó, chính những người thân ruột thịt, thân tín nhất của mình đã làm điều đó vs mình, có thể giống y chang hoặc có thể theo hình thức khác, nhưng về bản chất nó như nhau.
+
+Thì giai đoạn sau này, mình không bao giờ có cảm giác an toàn nào. Lúc nào cũng cảnh giác, tỉnh táo, căng thẳng dù bối cảnh thực ra chẳng cần phải làm vậy.
