@@ -102,3 +102,88 @@ Muốn nâng tầm nghề headhunt, chúng ta không thể chỉ nói về đạ
 # Type 7:
 - Thời buổi bây giờ, tầng lớp yếu thế ở XH, họ đã có hiểu biết hơn, họ đã có nhiều nguồn thông tin hơn. Nhất là họ đông đảo hơn, và đòi hỏi sự công bằng hơn.
 - Thế nên muốn xử lý khủng hoảng truyền thông trên MXH cho êm đẹp, thì hãy học cách xoa dịu tầng lớp yếu thế. Họ rất dễ bốc đồng, và cũng rất dễ tha thứ.
+
+# Type 8:
+Hôm nay ngồi nói chuyện với bạn HR về tuyển người cho dự án mới.
+
+Bạn ấy cứ cười mỉm mỉm…
+Mình thoáng nghĩ:
+“Chắc tại mình đẹp trai quá…”
+…xong 2 giây sau tự tỉnh: thôi, đừng ảo tưởng nữa.
+
+Mình hỏi:
+“Sao em cười vậy, anh nói gì sai à?”
+
+Bạn ấy trả lời:
+“Không anh, em chỉ thấy… cách anh tuyển dev hơi ngược đời so với các Tech Lead khác.”
+
+Ngược chỗ nào?
+
+“Anh tuyển senior dev với team lead mà không test code, không live coding, không review thuật toán…
+Chỉ hỏi mấy câu về tư duy logic, cách họ suy nghĩ, cách họ research, cách họ dùng AI…”
+
+Nghe xong mình cũng cười. Nhưng lần này là cười vì… quen rồi.
+
+Mình hỏi lại một câu rất đơn giản:
+“Theo em, junior khác senior ở điểm nào?”
+
+Nếu câu trả lời vẫn là:
+	•	Code nhanh hơn
+	•	Biết nhiều framework hơn
+	•	Viết code tốt hơn
+
+Thì có thể chúng ta đang tuyển sai ngay từ đầu.
+
+Với mình, từ level senior trở lên, đặc biệt là team lead:
+
+Code chỉ là điều kiện cần. Không phải thứ tạo ra giá trị lớn nhất.
+
+Thứ mình tìm là:
+	•	Khả năng tư duy hệ thống
+	•	Khả năng đặt đúng vấn đề
+	•	Khả năng tối ưu thời gian và nguồn lực
+	•	Và quan trọng nhất: khả năng biến complexity thành money
+
+Một senior giỏi không phải là người giải được bài toán khó nhất.
+Mà là người biết bài toán nào không nên giải.
+
+
+Còn chuyện “không test code”…
+
+Thật ra mình không cần test thứ mà:
+	•	CV đã thể hiện
+	•	GitHub đã thể hiện
+	•	Kinh nghiệm đã chứng minh
+
+Thứ mình cần kiểm chứng là:
+	•	Khi không biết, họ nghĩ như thế nào
+	•	Khi mơ hồ, họ tiếp cận ra sao
+	•	Khi áp lực, họ quyết định kiểu gì
+
+Vì thực tế đi làm:
+	•	Không có đề bài rõ ràng
+	•	Không có test case sẵn
+	•	Và Google + AI là công cụ, không phải gian lận
+
+
+Một team lead tốt không tạo ra nhiều code hơn.
+
+Họ tạo ra:
+	•	Ít bug hơn
+	•	Ít rework hơn
+	•	Ít drama hơn
+	•	Và nhiều giá trị hơn
+
+
+Nên nếu bạn vẫn đang tuyển senior/lead bằng cách:
+	•	Cho làm thuật toán 45 phút
+	•	Live code căng thẳng
+	•	Hỏi câu hỏi mẹo
+
+Thì có thể bạn đang:
+	•	Tuyển một coder giỏi
+Chứ chưa chắc là
+	•	Tuyển một leader đúng nghĩa
+
+Tư duy không phải thứ dễ đo.
+Nhưng nếu đo được, bạn sẽ tuyển đúng người.
