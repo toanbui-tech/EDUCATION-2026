@@ -128,9 +128,9 @@ Mình hỏi lại một câu rất đơn giản:
 “Theo em, junior khác senior ở điểm nào?”
 
 Nếu câu trả lời vẫn là:
-	•	Code nhanh hơn
-	•	Biết nhiều framework hơn
-	•	Viết code tốt hơn
+- Code nhanh hơn
+- Biết nhiều framework hơn
+- Viết code tốt hơn
 
 Thì có thể chúng ta đang tuyển sai ngay từ đầu.
 
@@ -139,10 +139,10 @@ Với mình, từ level senior trở lên, đặc biệt là team lead:
 Code chỉ là điều kiện cần. Không phải thứ tạo ra giá trị lớn nhất.
 
 Thứ mình tìm là:
-	•	Khả năng tư duy hệ thống
-	•	Khả năng đặt đúng vấn đề
-	•	Khả năng tối ưu thời gian và nguồn lực
-	•	Và quan trọng nhất: khả năng biến complexity thành money
+- Khả năng tư duy hệ thống
+- Khả năng đặt đúng vấn đề
+- Khả năng tối ưu thời gian và nguồn lực
+- Và quan trọng nhất: khả năng biến complexity thành money
 
 Một senior giỏi không phải là người giải được bài toán khó nhất.
 Mà là người biết bài toán nào không nên giải.
@@ -151,39 +151,34 @@ Mà là người biết bài toán nào không nên giải.
 Còn chuyện “không test code”…
 
 Thật ra mình không cần test thứ mà:
-	•	CV đã thể hiện
-	•	GitHub đã thể hiện
-	•	Kinh nghiệm đã chứng minh
+- CV đã thể hiện
+- GitHub đã thể hiện
+- Kinh nghiệm đã chứng minh
 
 Thứ mình cần kiểm chứng là:
-	•	Khi không biết, họ nghĩ như thế nào
-	•	Khi mơ hồ, họ tiếp cận ra sao
-	•	Khi áp lực, họ quyết định kiểu gì
+- Khi không biết, họ nghĩ như thế nào
+- Khi mơ hồ, họ tiếp cận ra sao
+- Khi áp lực, họ quyết định kiểu gì
 
 Vì thực tế đi làm:
-	•	Không có đề bài rõ ràng
-	•	Không có test case sẵn
-	•	Và Google + AI là công cụ, không phải gian lận
-
+- Không có đề bài rõ ràng
+- Không có test case sẵn
+- Và Google + AI là công cụ, không phải gian lận
 
 Một team lead tốt không tạo ra nhiều code hơn.
-
 Họ tạo ra:
-	•	Ít bug hơn
-	•	Ít rework hơn
-	•	Ít drama hơn
-	•	Và nhiều giá trị hơn
-
+- Ít bug hơn
+- Ít rework hơn
+- Ít drama hơn
+- Và nhiều giá trị hơn
 
 Nên nếu bạn vẫn đang tuyển senior/lead bằng cách:
-	•	Cho làm thuật toán 45 phút
-	•	Live code căng thẳng
-	•	Hỏi câu hỏi mẹo
+- Cho làm thuật toán 45 phút
+- Live code căng thẳng
+- Hỏi câu hỏi mẹo
 
-Thì có thể bạn đang:
-	•	Tuyển một coder giỏi
-Chứ chưa chắc là
-	•	Tuyển một leader đúng nghĩa
+Thì có thể bạn đang Tuyển một coder giỏi
+Chứ chưa chắc là Tuyển một leader đúng nghĩa
 
 Tư duy không phải thứ dễ đo.
 Nhưng nếu đo được, bạn sẽ tuyển đúng người.
